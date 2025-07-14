@@ -40,7 +40,7 @@ SolanaNet is a comprehensive, high-performance .NET SDK for building application
 
 ## Examples
 
-The [SolanaNet.Examples](https://github.com/jackfreemancoder/SolanaNet/src/SolanaNet.Examples/) contains some code examples,
+The [SolanaNet.Examples](https://github.com/jackfreemancoder/SolanaNet/tree/main/src/SolanaNet.Examples) contains some code examples,
 
 
 
